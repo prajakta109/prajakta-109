@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm prajakta Tambe
+# Hi there! 👋 I'm Prajakta Tambe
 
 ### 🎓 Engineering Student | Aspiring Developer
 
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 ## 📫 Connect With Me
 
 - 💻 GitHub:prajakta109
-- LinkedIn:prajakta tambe
+- LinkedIn:Prajakta tambe
 
 ---
 ⭐ Thanks for visiting my profile! Keep learning and keep building. 🚀
